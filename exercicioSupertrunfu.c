@@ -47,7 +47,7 @@ int main(){
  
 
 
-//definiçóes 2 cidade.
+//definiçóes 2 cidade. 
 
  printf("Digite o Estado: \n");
  scanf("%s", &estado_2);
