@@ -2,7 +2,7 @@
 
 int main(){
 
-// variaveis da 1 cidade.
+//Definição da variavel da 1 cidade.
     char estado[50];
     char codigo[50];
     char cidade[49];
@@ -11,7 +11,7 @@ int main(){
     float pib;
     int numero_pontos_turisticos;
 
-// variaveis da 2 cidade.
+// Definição da variavel da 2 cidade.
 
     char estado_2[50];
     char codigo_2[50];
