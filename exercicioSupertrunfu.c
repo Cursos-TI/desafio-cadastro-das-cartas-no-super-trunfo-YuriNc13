@@ -70,7 +70,7 @@ int main(){
  printf("Digite o numero de pontos turisticos: \n");
  scanf("%d",&numero_pontos_turisticos_2);
 
-//Saida de dados 1 cidade.
+//Exibição dos Dados da Carta 1.
 
  printf("Estado: %s\n", estado);
  printf("Cidade: %s \n", cidade);
@@ -79,7 +79,7 @@ int main(){
  printf("Pib: %f \n",pib);
  printf("Area: %f \n", area);
 
-//Saida de dados 2 cidade.
+// Exibição dos Dados da Carta 2.
 
  printf("Estado: %s\n", estado_2);
  printf("Cidade: %s \n", cidade_2);
