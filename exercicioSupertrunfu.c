@@ -89,5 +89,4 @@ int main(){
  printf("Area: %f \n", area_2);
 
  return 0;
-
 }
