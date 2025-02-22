@@ -21,7 +21,7 @@ int main(){
     float pib_2;
     int numero_pontos_turisticos_2;
 
-//definiçóes 1 cidade.
+//Cadastro da 1 Carta.
 
  printf("Digite o Estado: \n");
  scanf("%s", &estado);
@@ -47,7 +47,7 @@ int main(){
  
 
 
-//definiçóes 2 cidade. 
+//Cadastro da 2 Carta. 
 
  printf("Digite o Estado: \n");
  scanf("%s", &estado_2);
